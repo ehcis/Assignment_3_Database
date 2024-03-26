@@ -23,10 +23,10 @@ The following **bonus** features are implemented:
 ## Screenshot and/or Video Walkthrough
 
 
-<img src="sql.png" title='SQL' width='' alt='SQL' />
-<img src="Images/nosql.png" title='NOSQL' width='' alt='NOSQ'/>
-<img src="Images/mysql_server.png" title='MySQL Server' width='' alt='MySQL Server' />
-<img src="Images/metric_database.png" title='Metric Database' width='' alt='Database' />
+<img src="imgs/sql.png" title='SQL' width='' alt='SQL' />
+<img src="imgs/nosql.png" title='NOSQL' width='' alt='NOSQ'/>
+<img src="imgs/mysql_server.png" title='MySQL Server' width='' alt='MySQL Server' />
+<img src="imgs/metric_database.png" title='Metric Database' width='' alt='Database' />
 
 
 ## Notes:
