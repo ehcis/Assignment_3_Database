@@ -23,10 +23,10 @@ The following **bonus** features are implemented:
 ## Screenshot and/or Video Walkthrough
 
 
-<img src="Assignment_3_Database/ Images/sql.png" title='SQL Tutorial' width='' alt='SQL' />
-<img src="Images/nosql.png" title='NoSQL Tutorial' width='' alt='NoSQL' />
-<img src="Images/mysql_server.png" title='MySQL Server Setup' width='' alt='MySQL' />
-<img src="Images/metric__database.png" title='Metric Tracker Database' width=''alt='DB' />
+<img src="sql.png" title='SQL' width='' alt='SQL' />
+<img src="Images/nosql.png" title='NOSQL' width='' alt='NOSQ'/>
+<img src="Images/mysql_server.png" title='MySQL Server' width='' alt='MySQL Server' />
+<img src="Images/metric_database.png" title='Metric Database' width='' alt='Database' />
 
 
 ## Notes:
