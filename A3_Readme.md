@@ -22,7 +22,6 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<a href=“/Users/erikhernandez/Desktop/CSE 4500/Assignment_3_Database/ Images/sql.pdf”>MySQL PDF/a>
 <img src="/Users/erikhernandez/Desktop/CSE 4500/Assignment_3_Database/ Images/nosql.png" title='NoSQL Tutorial' width='' alt='NoSQL' />
 <img src="/Users/erikhernandez/Desktop/CSE 4500/Assignment_3_Database/ Images/mysql_server.png" title='MySQL Server Setup' width='' alt='MySQL' />
 <img src="![/Users/erikhernandez/Desktop/CSE 4500/Assignment_3_Database/ Images/mysql_server.png](< Images/metric__database.png>)" title='Metric Tracker Database' width=''alt='DB' />
