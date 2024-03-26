@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 ## Screenshot and/or Video Walkthrough
 
 
-<img src="Images/sql.png" title='SQL Tutorial' width='' alt='SQL' />
+<img src="Assignment_3_Database/ Images/sql.png" title='SQL Tutorial' width='' alt='SQL' />
 <img src="Images/nosql.png" title='NoSQL Tutorial' width='' alt='NoSQL' />
 <img src="Images/mysql_server.png" title='MySQL Server Setup' width='' alt='MySQL' />
 <img src="Images/metric__database.png" title='Metric Tracker Database' width=''alt='DB' />
